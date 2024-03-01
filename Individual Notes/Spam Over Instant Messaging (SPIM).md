@@ -2,6 +2,7 @@
 Area: "[[Cyber Security]]"
 tags:
   - Note
+  - Acronym
 aliases:
   - SPIM
 ---
