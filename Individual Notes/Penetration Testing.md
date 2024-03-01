@@ -58,5 +58,5 @@ aliases:
 ```dataview
 list
 from [[]] and #Note 
-sort asc
+sort file.name asc
 ```
