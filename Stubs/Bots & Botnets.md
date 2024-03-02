@@ -2,9 +2,11 @@
 Area: "[[Cyber Security]]"
 tags:
   - Note
-  - Acronym
 aliases:
-  - AV
+  - bot
+  - bots
+  - botnet
+  - botnets
 ---
 
 

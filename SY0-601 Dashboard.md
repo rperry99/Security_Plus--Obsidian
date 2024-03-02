@@ -14,3 +14,9 @@ list
 from #SocialEngineering  
 sort file.name asc
 ```
+### 1.2 Attack Types
+```dataview
+list
+from #AttackTypes  
+sort file.name asc
+```

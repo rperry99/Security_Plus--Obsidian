@@ -28,3 +28,12 @@ To accomplish this, I am using Dataview, along with tags to sort things into dif
 	- Phishing, Social Engineering
 - Folders Added:
 	- Related Notebook Assets (All images are stored here)
+### `Version 0.01`
+- Added a `Stubs` folder. This is for any note that I created that has a relation, that I have not yet filled out, or is a note for a topic I would like to cover at some point. The following files have been added to the Stubs folder for future use:
+	- Adware, Backdoors, Binaries, Bots & Botnets, Crypto-Malware, Drive-by Downloads, Edge Computing, Fog Computing, Fuzzers, Infrastructure as Code, Internet of Things (IoT), Intrusion Detection System (IDS), Kernels, Keyloggers, Operating System (OS), Personally Identifiable Data (PII), Public-Key Cryptography, Random-Access Memory (RAM), Ransomware, Rootkits, Spyware, Trojan Horses, Virtual Machine Sprawl, Viruses, Worms
+- The following have been moved from `Stubs` to `Individual Notes` and have had at least some information filled out:
+	- Backdoors, Crypto-Malware, Ransomware, Trojan Horses, Viruses, Worms
+- The following have been created as new:
+	- Fileless Viruses, Malware, Potentially Unwanted Program (PUP), Remote Access Trojans (RATs)
+- Updated the SY0-601 Dashboard to include Section 1.2 Attack Types and all related notes.
+- Updated the title of the Anti-Viruses (AV) page, as it contained a typo.
