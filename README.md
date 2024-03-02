@@ -23,25 +23,8 @@ To accomplish this, I am using Dataview, along with tags to sort things into dif
 - I am well into my journey of learning this material, but I am just now staring the process of making these notes and linking them.
 - In addition to the below changes, I also fixed the Dataview code on _all_ pages. There was an error in the code where I did not sort everything correctly.
 - Pages Added:
-	- Anti-Virus (AV)
-	- Credential Harvesting
-	- Dumpster Diving
-	- Hoaxes
-	- Impersonation
-	- Influence Campaigns
-	- Intrusion Prevention System (IPS)
-	- Invoice Scams
-	- Pretexting
-	- Reconnaissance
-	- Request for Comments (RFC)
-	- Reverse DNS (rDNS)
-	- Shoulder Surfing
-	- Secure Mail Transfer Protocol (SMTP)
-	- Spam over Instant Messaging (SPIM)
-	- Tailgating
-	- Watering Hole Attacks
+	- Anti-Virus (AV), Credential Harvesting, Dumpster Diving, Hoaxes, Impersonation, Influence Campaigns, Intrusion Prevention System (IPS), Invoice Scams, Pretexting, Reconnaissance, Request for Comments (RFC), Reverse DNS (rDNS), Shoulder Surfing, Secure Mail Transfer Protocol (SMTP), Spam over Instant Messaging (SPIM), Tailgating, Watering Hole Attacks
 - Pages Updated:
-	- Phishing
-	- Social Engineering
+	- Phishing, Social Engineering
 - Folders Added:
 	- Related Notebook Assets (All images are stored here)
