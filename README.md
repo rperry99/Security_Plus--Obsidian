@@ -37,3 +37,7 @@ To accomplish this, I am using Dataview, along with tags to sort things into dif
 	- Fileless Viruses, Malware, Potentially Unwanted Program (PUP), Remote Access Trojans (RATs)
 - Updated the SY0-601 Dashboard to include Section 1.2 Attack Types and all related notes.
 - Updated the title of the Anti-Viruses (AV) page, as it contained a typo.
+
+### `Version 0.02`
+- Added the "AttackTypes" tag to the following pages as I had forgotten previously:
+	- Ransomware, Worms
