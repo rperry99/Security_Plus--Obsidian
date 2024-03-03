@@ -4,8 +4,6 @@ I am currently studying for the [CompTIA SY0-601 Certificate](https://www.compti
 
 The course I am taking is Professor Messer's [SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/) which he provides for free via YouTube.
 
-[[Malware#^30f2d6|signature]]
-
 # What is contained here?
 Basically, this is my note taking system for learning new things. One of the ways I like to use to learn new material is to take notes on it, and then have everything linked together so that if I am on some page, I can easily click around to get more information on something else.
 
@@ -59,3 +57,6 @@ To accomplish this, I am using DataView, along with tags to sort things into dif
 	- Adware, Backdoors, Bots & Botnets, Kernels, Rootkits, Spyware, Trojan Horses
 - Pages moved from `Individual Notes` to `Stubs`. The following are empty notes that should not have been in this folder yet.
 	- Anti-Virus (AV), Intrusion Prevention System (IPS), Request for Comments (RFC), Reverse DNS (rDNS), Secure Mail Transfer Protocol (SMTP), Spam Over Instant Messaging (SPIM)
+
+### `Version 0.03b`
+- Removed a link I kept in the readme by accident when testing how to link pages within obsidian.
