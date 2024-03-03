@@ -4,12 +4,14 @@ tags:
   - Note
   - Acronym
 aliases:
-  - OS
-  - operating system
+  - GUI
+  - graphical user interface
 ---
 
 
-### Related Notes
+
+---
+# Related Notes
 ```dataview
 list
 from [[]] and #Note 

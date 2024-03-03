@@ -5,6 +5,7 @@ tags:
   - Acronym
 aliases:
   - PII
+  - personally identifiable information
 ---
 
 

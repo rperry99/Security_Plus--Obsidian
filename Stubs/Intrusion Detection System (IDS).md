@@ -4,6 +4,7 @@ tags:
   - Note
 aliases:
   - IDS
+  - intrustion detection system
 ---
 
 

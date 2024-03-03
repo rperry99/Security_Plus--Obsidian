@@ -5,6 +5,7 @@ tags:
   - Acronym
 aliases:
   - IoT
+  - internet of things
 ---
 
 

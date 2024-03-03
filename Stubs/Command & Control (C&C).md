@@ -2,14 +2,16 @@
 Area: "[[Cyber Security]]"
 tags:
   - Note
-  - Acronym
 aliases:
-  - OS
-  - operating system
+  - C&C
+  - command and control
+  - command & control
 ---
 
 
-### Related Notes
+
+---
+# Related Notes
 ```dataview
 list
 from [[]] and #Note 

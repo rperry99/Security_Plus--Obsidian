@@ -3,7 +3,7 @@ Area: "[[Cyber Security]]"
 tags:
   - Note
 aliases:
-  - kernel
+  - firewall
 ---
 
 

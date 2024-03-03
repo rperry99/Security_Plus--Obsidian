@@ -2,15 +2,16 @@
 Area: "[[Cyber Security]]"
 tags:
   - Note
+  - Acronym
 aliases:
-  - bot
-  - bots
-  - botnet
-  - botnets
+  - P2P
+  - peer to peer
 ---
 
 
-### Related Notes
+
+---
+# Related Notes
 ```dataview
 list
 from [[]] and #Note 

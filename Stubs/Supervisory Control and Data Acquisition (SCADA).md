@@ -4,12 +4,14 @@ tags:
   - Note
   - Acronym
 aliases:
-  - OS
-  - operating system
+  - SCADA
+  - supervisory control and data acquisition
 ---
 
 
-### Related Notes
+
+---
+# Related Notes
 ```dataview
 list
 from [[]] and #Note 

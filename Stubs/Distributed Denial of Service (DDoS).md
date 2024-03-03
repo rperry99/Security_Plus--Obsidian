@@ -4,12 +4,14 @@ tags:
   - Note
   - Acronym
 aliases:
-  - OS
-  - operating system
+  - DDoS
+  - distributed denial of service
 ---
 
 
-### Related Notes
+
+---
+# Related Notes
 ```dataview
 list
 from [[]] and #Note 

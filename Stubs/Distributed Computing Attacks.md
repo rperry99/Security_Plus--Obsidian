@@ -2,14 +2,13 @@
 Area: "[[Cyber Security]]"
 tags:
   - Note
-  - Acronym
 aliases:
-  - OS
-  - operating system
 ---
 
 
-### Related Notes
+
+---
+# Related Notes
 ```dataview
 list
 from [[]] and #Note 

@@ -29,7 +29,7 @@ aliases:
 - Always have a backup, ideally an offline one.
 - Keep your operating system up to date.
 - Keep your applications up to date.
-- Keep you [[Anti-Virus (AV)]]/[[Anti-Malware]] signatures up to date.
+- Keep you [[Anti-Virus (AV)]]/[[Anti-Malware]] [[Malware Signatures|signatures]] up to date.
 
 ### Related Notes
 ```dataview

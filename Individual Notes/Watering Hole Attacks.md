@@ -20,7 +20,7 @@ aliases:
 - Make sure you use [[Defense In Depth]]
 	- Use layered defenses, it's never just one thing
 - [[Firewalls]] and [[Intrusion Prevention System (IPS)|IPS]] to stop the traffic before things get bad.
-- [[Anti-Virus (AV)]] / [[Anti-Malware]] signature updates
+- [[Anti-Virus (AV)]] / [[Anti-Malware]] [[Malware Signatures|signature]] updates
 	- Always keep these up to date.
 
 ### Related Notes
