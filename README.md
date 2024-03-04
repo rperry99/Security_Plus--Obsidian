@@ -24,7 +24,7 @@ To accomplish this, I am using DataView, along with tags to sort things into dif
 # Updates
 ### `3-1-24 Update`
 - I am well into my journey of learning this material, but I am just now staring the process of making these notes and linking them.
-- In addition to the below changes, I also fixed the Dataview code on _all_ pages. There was an error in the code where I did not sort everything correctly.
+- In addition to the below changes, I also fixed the DataView code on _all_ pages. There was an error in the code where I did not sort everything correctly.
 - Pages Added:
 	- Anti-Virus (AV), Credential Harvesting, Dumpster Diving, Hoaxes, Impersonation, Influence Campaigns, Intrusion Prevention System (IPS), Invoice Scams, Pretexting, Reconnaissance, Request for Comments (RFC), Reverse DNS (rDNS), Shoulder Surfing, Secure Mail Transfer Protocol (SMTP), Spam over Instant Messaging (SPIM), Tailgating, Watering Hole Attacks
 - Pages Updated:
@@ -60,3 +60,9 @@ To accomplish this, I am using DataView, along with tags to sort things into dif
 
 ### `Version 0.03b`
 - Removed a link I kept in the readme by accident when testing how to link pages within obsidian.
+
+### `Version 0.04`
+- Pages added:
+	- Adversarial Artificial Intelligence, AI Training Data Poisoning, Card Cloning, Card Skimming, Evasion Attacks, Hashing, Human Interface Device (HID), Machine Learning, Malicious Flash Drives, Malicious USB Cables, Password Attacks, Password Brute-Force, Plaintext, Rainbow Tables, Salting, Secure Hashing Algorithm 256bit (SHA-256), Supply Chain, Supply Chain Attacks
+- Pages added to `Stubs`:
+	- Artificial Intelligence (AI), Card Validation Code (CVC), Distributed Cracking, GPU Cracking, Heating, Ventilation, and Air Conditioning (HVAC), Universal Serial Bus (USB)
