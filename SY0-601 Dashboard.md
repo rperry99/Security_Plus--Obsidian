@@ -20,3 +20,9 @@ list
 from #AttackTypes  
 sort file.name asc
 ```
+### 1.3 Application Attacks
+```dataview
+list
+from #ApplicationAttacks  
+sort file.name asc
+```

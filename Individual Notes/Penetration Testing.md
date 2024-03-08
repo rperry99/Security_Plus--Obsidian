@@ -30,7 +30,7 @@ aliases:
 	- For a partially known, a tester may only focus on certain systems or applications as well.
 # The Goal of Penetration Testing
 - The tester is trying to find _and exploit_ any vulnerabilities in the system. 
-- This comes with a warning, in that when someone is pentesting, they may accidentally cause a [[Denial of Service]].
+- This comes with a warning, in that when someone is pentesting, they may accidentally cause a [[Denial of Service (DoS)]].
 - [[Buffer Overflows]] can also cause instability.
 - A tester may also end up gaining privilege escalation. 
 # The Methods of Pentesting

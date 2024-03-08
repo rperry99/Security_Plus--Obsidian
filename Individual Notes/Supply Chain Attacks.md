@@ -1,7 +1,8 @@
 ---
-Area: 
+Area: "[[Cyber Security]]"
 tags:
   - Note
+  - AttackTypes
 aliases:
 ---
 # What is it?

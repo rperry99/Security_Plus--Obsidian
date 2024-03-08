@@ -25,7 +25,7 @@ To accomplish this, I am using DataView, along with tags to sort things into dif
 ### `3-1-24 Update`
 - I am well into my journey of learning this material, but I am just now staring the process of making these notes and linking them.
 - In addition to the below changes, I also fixed the DataView code on _all_ pages. There was an error in the code where I did not sort everything correctly.
-- Pages Added:
+- Pages Added to `Individual Notes`:
 	- Anti-Virus (AV), Credential Harvesting, Dumpster Diving, Hoaxes, Impersonation, Influence Campaigns, Intrusion Prevention System (IPS), Invoice Scams, Pretexting, Reconnaissance, Request for Comments (RFC), Reverse DNS (rDNS), Shoulder Surfing, Secure Mail Transfer Protocol (SMTP), Spam over Instant Messaging (SPIM), Tailgating, Watering Hole Attacks
 - Pages Updated:
 	- Phishing, Social Engineering
@@ -34,7 +34,7 @@ To accomplish this, I am using DataView, along with tags to sort things into dif
 ### `Version 0.01`
 - Added a `Stubs` folder. This is for any note that I created that has a relation, that I have not yet filled out, or is a note for a topic I would like to cover at some point. The following files have been added to the Stubs folder for future use:
 	- Adware, Backdoors, Binaries, Bots & Botnets, Crypto-Malware, Drive-by Downloads, Edge Computing, Fog Computing, Fuzzers, Infrastructure as Code, Internet of Things (IoT), Intrusion Detection System (IDS), Kernels, Keyloggers, Operating System (OS), Personally Identifiable Data (PII), Public-Key Cryptography, Random-Access Memory (RAM), Ransomware, Rootkits, Spyware, Trojan Horses, Virtual Machine Sprawl, Viruses, Worms
-- The following have been moved from `Stubs` to `Individual Notes` and have had at least some information filled out:
+- The following have been moved from `Stubs` --> `Individual Notes` and have had at least some information filled out:
 	- Backdoors, Crypto-Malware, Ransomware, Trojan Horses, Viruses, Worms
 - The following have been created as new:
 	- Fileless Viruses, Malware, Potentially Unwanted Program (PUP), Remote Access Trojans (RATs)
@@ -49,20 +49,33 @@ To accomplish this, I am using DataView, along with tags to sort things into dif
 - Pages Updated:
 	- Pretexting
 	- Various Pages, anywhere where a 'Signature' was mentioned, I added a link to Malware Signatures, as this was a topic that I initially had a hard time understanding.
-- Pages added:
+- Pages added to `Individual Notes`:
 	- Basic Input Output System (BIOS), Logic Bombs, Unified Extensible Firmware Interface (UEFI)
 - Pages added to `Stubs`:
 	- Command & Control (C&C), Distributed Computing Attacks, Distributed Denial of Service (DDoS), Firewalls, Graphical User Interface (GUI), Malware Signatures, Peer to Peer (P2P), Relay Spam, Supervisory Control and Data Acquisition (SCADA)
-- Pages moved from `Stubs` to `Individual Notes`
+- Pages moved from `Stubs` --> `Individual Notes`
 	- Adware, Backdoors, Bots & Botnets, Kernels, Rootkits, Spyware, Trojan Horses
-- Pages moved from `Individual Notes` to `Stubs`. The following are empty notes that should not have been in this folder yet.
+- Pages moved from `Individual Notes` --> `Stubs`. The following are empty notes that should not have been in this folder yet.
 	- Anti-Virus (AV), Intrusion Prevention System (IPS), Request for Comments (RFC), Reverse DNS (rDNS), Secure Mail Transfer Protocol (SMTP), Spam Over Instant Messaging (SPIM)
 
 ### `Version 0.03b`
 - Removed a link I kept in the readme by accident when testing how to link pages within obsidian.
 
 ### `Version 0.04`
-- Pages added:
-	- Adversarial Artificial Intelligence, AI Training Data Poisoning, Card Cloning, Card Skimming, Evasion Attacks, Hashing, Human Interface Device (HID), Machine Learning, Malicious Flash Drives, Malicious USB Cables, Password Attacks, Password Brute-Force, Plaintext, Rainbow Tables, Salting, Secure Hashing Algorithm 256bit (SHA-256), Supply Chain, Supply Chain Attacks
+- Pages added `Individual Notes`:
+	- Adversarial Artificial Intelligence, AI Training Data Poisoning, Card Cloning, Card Skimming, Evasion Attacks, Hashing, Human Interface Device (HID), Machine Learning, Malicious Flash Drives, Malicious USB Cables, Password Attacks, Password Brute-Force, Plaintext, Rainbow Tables, Salting, Secure Hashing Algorithm 256bit (SHA-256), Supply Chain Attacks
 - Pages added to `Stubs`:
 	- Artificial Intelligence (AI), Card Validation Code (CVC), Distributed Cracking, GPU Cracking, Heating, Ventilation, and Air Conditioning (HVAC), Universal Serial Bus (USB)
+
+### `Version 0.05`
+- Misc Updates:
+	- Added "AttackTypes" tag to Supply Chain Attacks
+	- Added new "ApplicationAttacks" tag, and updated SY0-601 Dashboard to include notes tagged with this.
+- Pages Added to `Individual Notes`: 
+	- Application Programming Interface (API), API Attacks, Birthday Attacks, Buffer Overflows, Cloud-Based & On Premises Security, Cookies, Cross Site Scripting (XSS), Cryptographic Attacks, DHCP Starvation, Directory Traversal, Downgrade Attacks, Driver Manipulation, Error Handling, Input Handling, Integer Overflow, Memory Leak, Memory Vulnerabilities, NULL Pointer Reference, Pass The Hash, Persistent (Stored) XSS Attack, Privilege Escalation, Non-Persistent (Reflected) XSS Attack, PHP - Hypertext Preprocessor (PHP), Race Conditions, Refactoring (Metamorphic Malware), Replay Attacks, Request Forgeries, Resource Exhaustion, Secure Sockets Layer (SSL), Session Hijacking, Session IDs, Shimming, Supply Chain, ZIP Bombs
+- Pages Added to `Stubs`:
+	- Address Resolution Protocol (ARP), Cascading Style Sheets (CSS), Denial of Service (DoS), Dynamic Host Configuration Protocol (DHCP), Fault Tolerance, Hypertext Markup Language (HTML), Hypertext Transfer Protocol Secure (HTTPS), No Operation (NOP), On-Path Attacks, Padding Oracle and Downgrade Legacy Encryption (POODLE), Transport Layer Security (TLS), User Account Control (UAC), Virtual Private Network (VPN)
+- Pages Updated:
+	- Hashing
+- Pages moved: `Stubs` --> `Individual Notes`
+	- Transport Layer Security (TLS)

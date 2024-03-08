@@ -17,7 +17,12 @@ aliases:
 
 - These are very bad.
 - It's when two different inputs will end up with the same hash. 
+- Hash digests should always be unique.
 - If this happens, you need to find a new hashing algorithm.
+
+## Hash with a collision
+- [[Message Digest Algorithm 5 (MD5 Hash)]]
+- Published in April 1992, and a collision was identified in 1996.
 
 # Make it Salty
 - When you store a password, there may also be a [[Salting|salt]] added to it, which is essentially some random extra data so that even if someone share's the same password, the hash won't be the same.
