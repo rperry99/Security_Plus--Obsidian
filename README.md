@@ -1,3 +1,7 @@
+---
+tags:
+  - README
+---
 # SY0-601 Security+ Notes
 This is my Obsidian vault for my Security+ notes. 
 I am currently studying for the [CompTIA SY0-601 Certificate](https://www.comptia.org/certifications/security). Even though the SY0-701 is the most current one, there are vastly more resources for studying the 601. I have until July to take this test to get the certificate.
@@ -13,9 +17,11 @@ There is an added benefit here as well, that with "linking my thinking", I can m
 This page is essentially being used as a hub for the notes. This way, I do not have to manually search the long list of notes.
 
 To accomplish this, I am using DataView, along with tags to sort things into different categories.
-- `#Acronym` | To have a complete list of all the acronyms recommended to learn for the test.
-- `#AttackTypes` | Notes taken from the "Attack Types" part of the course.
-- `#SocialEngineering` | Notes taken from the "Social Engineering" part of the course.
+- #Acronym  | To have a complete list of all the acronyms recommended to learn for the test.
+- #ApplicationAttacks  | Notes taken from the "Network Attacks" section.
+- #AttackTypes   | Notes taken from the "Attack Types" part of the course.
+- #NetworkAttacks  | Notes taken from the "Network Attack Section"
+- #SocialEngineering  | Notes taken from the "Social Engineering" part of the course.
 
 # Obsidian Plugins Used
 - [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) - Lets me generate lists and graphs of my different pages. Each note will show you a list of related notes, sorted alphabetically. The SY0-601 Dashboard page will aggregate all the new stuff I add automatically, so long as I use the tags mentioned above.
@@ -79,3 +85,13 @@ To accomplish this, I am using DataView, along with tags to sort things into dif
 	- Hashing
 - Pages moved: `Stubs` --> `Individual Notes`
 	- Transport Layer Security (TLS)
+
+### `Version 0.06`
+- Misc Updates
+	- Added "NetworkAttacks" tag.
+	- Updated README to use actual tags for the different sections.
+	- Updated SY0-601 Dashboard to not include the README in the lists of documents.
+- Pages added to `Individual Notes`
+	- 802.11 Management Frames, Bluejacking, Bluesnarfing, Rogue Access Points, Wireless Disassociation Attacks, Wireless Evil Twins, Wireless Jamming
+- Pages added to `Stubs`
+	- Access Point (AP), Institute of Electrical and Electronics Engineers (IEEE), Network Access Control (NAC), Quality of Service (QoS), Radio Frequency (RF), Server Set Identifier

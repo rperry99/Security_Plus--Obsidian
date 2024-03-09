@@ -11,18 +11,25 @@ sort file.name asc
 ### 1.1 Social Engineering
 ```dataview
 list
-from #SocialEngineering  
+from #SocialEngineering and -#README
 sort file.name asc
 ```
 ### 1.2 Attack Types
 ```dataview
 list
-from #AttackTypes  
+from #AttackTypes and -#README
 sort file.name asc
 ```
 ### 1.3 Application Attacks
 ```dataview
 list
-from #ApplicationAttacks  
+from #ApplicationAttacks and -#README
+sort file.name asc
+```
+
+### 1.4 Network Attacks
+```dataview
+list
+from #NetworkAttacks and -#README
 sort file.name asc
 ```
