@@ -1,4 +1,5 @@
 # Acronym List
+Refer to [[Acronyms]] for a breakdown of what needs learned.
 ```dataview
 list
 from #Acronym  

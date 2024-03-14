@@ -4,14 +4,14 @@ tags:
   - Note
   - Acronym
 aliases:
-  - PII
-  - personally identifiable information
+  - WEP
+  - wired equivalent privacy
 ---
 
 
 
-
-### Related Notes
+---
+# Related Notes
 ```dataview
 list
 from [[]] and #Note 

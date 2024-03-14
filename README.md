@@ -95,3 +95,21 @@ To accomplish this, I am using DataView, along with tags to sort things into dif
 	- 802.11 Management Frames, Bluejacking, Bluesnarfing, Rogue Access Points, Wireless Disassociation Attacks, Wireless Evil Twins, Wireless Jamming
 - Pages added to `Stubs`
 	- Access Point (AP), Institute of Electrical and Electronics Engineers (IEEE), Network Access Control (NAC), Quality of Service (QoS), Radio Frequency (RF), Server Set Identifier
+
+### `Version 0.07`
+- README Notes:
+	- I am no longer going to alphabetize the pages added, moved, updated, etc. on the README. Going forward, the lists will be in the order of actions. For example, looking below on pages added to `Stubs`, "Relay Attacks" was added to the folder before "Spanning Tree Protocol (STP)".
+		- This helps me see what order files got added in.
+- Misc Updates
+	- Added an "Acronyms" page
+		- It lists all acronym pages created, All acronym pages in `Stubs` (they need more information), and all acronyms in `Individual Notes` (they have some information filled out about what the acronym means).
+- Pages Moved:
+	- `Stubs` --> `Individual Notes`
+		- On-Path Attacks, Personally Identifiable Information (PII)
+- Pages Added:
+	- `Stubs`
+		- Relay Attacks, Subnets, Wired Equivalent Privacy (WEP), Local Area Network (LAN), Organizational Unique Identifier (OUI), Spanning Tree Protocol (STP), Domain Name System (DNS), IP Address, Universal Resource Locator (URL)
+	- `Individual Notes`
+		- ARP Poisoning, Cryptographic Nonce, Initialization Vector (IV), Near Field Communication (NFC), On-Path Browser Attacks, Radio-Frequency Identification (RFID), LAN Switching, MAC Cloning, MAC Flooding, Media Access Control Address (MAC Address), DNS Poisoning, Domain Hijacking, URL Hijacking, Typosquatting
+- Pages Updated with new information:
+	- Phishing

@@ -13,7 +13,7 @@ Section:
 - It's usually delivered via email, text, etc., but it can also be done via voice.
 
 # Trickery of Phishing
-- [[Typosquatting]] is a type of URL hijacking where you can either spell something slightly wrong (gooogle) or use "prepending" (ggoogle) to trick users.
+- [[Typosquatting]] is a type of [[URL Hijacking]] where you can either spell something slightly wrong (gooogle) or use "prepending" (ggoogle) to trick users.
 - [[Pretexting]] is lying to get information. 
 	- An attacker comes up with a story and play a character in that story. 
 	- "Hi, we're calling from Visa regarding an automated payment to your utility service."
